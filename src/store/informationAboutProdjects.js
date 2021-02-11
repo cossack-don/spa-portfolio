@@ -1,5 +1,5 @@
 export default {
-
+ //   фото 275 на 310 пк размер
     informationAboutProdjects:[
         {
             id: 1,
@@ -8,16 +8,17 @@ export default {
               "https://github.com/cossack-don/group",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Vue + Vuex + Routers - JOB spa',
-            disabled:true
+            disabledGitHub:false
           },
           {
             id: 2,
             linkPreview: "https://www.winediscovery.ru/",
             linkGitHub:
               "/",
-            urlImage: require("../assets/logo.svg"),
-            dicription:'Vue + Vuex + SCSS + Routers',
-            disabled:true
+            urlImage: require("../assets/wd_logo.jpg"),
+            dicription:'Vue, vanilla js + Webpack + 1C Bitrix',
+            disabledGitHub:true,
+            disabledPreview:false
           },
           {
             id: 3,
@@ -26,7 +27,8 @@ export default {
               "https://github.com/cossack-don/nike-shop-app/blob/main/src/store/shop.js",
             urlImage: require("../assets/logo.svg"),
             dicription:'Vue + Vuex + SCSS + Routers',
-            disabled:true
+            disabledGitHub:false,
+            disabledPreview:true
           },
           {
             id: 4,

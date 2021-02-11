@@ -8,8 +8,9 @@ export default {
               "hhttps://github.com/cossack-don/popup-j-query",
             //   фото 275 на 310 пк размер
             urlImage: require("../assets/template-no-image.jpg"),
-            dicription:'jQuery popup',
-            disabled:false
+            dicription:'jQuery popup + from + css',
+            disabledGitHub:false,
+            disabledPreview:false
           },
           {
             id: 2,
@@ -23,9 +24,9 @@ export default {
             id: 3,
             linkPreview: "https://yandex.ru/",
             linkGitHub:
-              "https://github.com/cossack-don/nike-shop-app/blob/main/src/store/shop.js",
-            urlImage: require("../assets/logo.svg"),
-            dicription:'Vue + Vuex +  + Routers - JOB spa'
+              "https://github.com/SergeyZhur/email-form",
+              urlImage: require("../assets/template-no-image.jpg"),
+            dicription:'email-form PHP'
           },
           {
             id: 4,
