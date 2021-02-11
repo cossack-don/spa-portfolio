@@ -2,7 +2,8 @@
   <div class="about-me pa-5">
     <div class="about-me__wrapper-profile main-profile">
       <div class="main-profile__wrapper-photo main-avatar">
-        <img src="../assets/logo.svg" alt="" class="main-avatar__photo" />
+        <!-- <img src="../assets/avatar.jpg" alt="" class="main-avatar__photo" /> -->
+        <div class="main-avatar__photo"></div>
         <div class="main-avatar__contacts main-contacts">
           <!-- <ul class="main-contacts__list contacts-list">
             <li class="contacts-list__item">Контакты</li>
@@ -13,7 +14,7 @@
           </ul> -->
 
           <v-list class="main-contacts__list contacts-list" color="yellow">
-            <v-list-item v-for="n in 6" :key="n">
+            <v-list-item v-for="n in 3" :key="n">
               <v-list-item-icon>
                 <v-icon>mdi-vuejs</v-icon>
               </v-list-item-icon>
@@ -103,21 +104,25 @@ ul {
 
 .main-profile__wrapper-photo {
   flex-basis: 40%;
-  /* width: 40%; */
   margin: 15px;
+  margin-top: 0;
 }
 
 .main-profile__discription {
   border: solid blue 2px;
   flex-basis: 55%;
-  /* width: 55%; */
 }
 
 .main-avatar__photo {
-  /* height: auto;
-   */
-  width: 100%;
-  height: 250px;
+    
+    background-size: 62%;
+    background-position: 50% 26%;
+    min-height: 450px;
+    background-image: url(../assets/avatar.jpg);
+    background-repeat: no-repeat;
+ 
+  /* width: 100%;
+  height: 250px; */
 }
 /* contacts */
 .contacts-list {

@@ -34,6 +34,7 @@
                 :href="item.linkPreview"
                 class="mt-3"
                 target="_blank"
+                :disabled="item.disabledPreview"
               >
                 Live Preview
               </v-btn>
@@ -44,7 +45,7 @@
                 class="mt-3"
                 :href="item.linkGitHub"
                 target="_blank"
-                :disabled="item.disabled"
+                :disabled="item.disabledGitHub"
               >
                 GitHub code
               </v-btn>

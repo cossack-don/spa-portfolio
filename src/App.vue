@@ -59,7 +59,7 @@ export default {
           icon: "mdi-animation-outline",
           to: "/developments",
         },
-        { title: "Разное", icon: "mdi-palette", to: "/salmagundi" },
+        { title: "Сертификаты", icon: "mdi-palette", to: "/salmagundi" },
       ],
       сategorys: [
         {
