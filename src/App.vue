@@ -1,6 +1,6 @@
 <template>
   <v-app id="inspire">
-    <v-app-bar app color="blue">
+    <v-app-bar app color="">
       <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
 
       <v-toolbar-title>Портфолио Vue</v-toolbar-title>
@@ -13,7 +13,7 @@
         </v-list-item-avatar>
 
         <v-list-item-content>
-          <v-list-item-title>John Leider</v-list-item-title>
+          <v-list-item-title>Сергей Журавлев</v-list-item-title>
         </v-list-item-content>
       </v-list-item>
 
@@ -52,8 +52,14 @@ export default {
     return {
       drawer: null,
       items: [
-        { title: "Home", icon: "mdi-view-dashboard", to: "/" },
-        { title: "About", icon: "mdi-forum", to: "/item" },
+        { title: "Обо мне", icon: "mdi-information-outline", to: "/" },
+        { title: "Vue проекты", icon: "mdi-vuejs", to: "/vue-prodjects" },
+        {
+          title: "Наработки",
+          icon: "mdi-animation-outline",
+          to: "/developments",
+        },
+        { title: "Разное", icon: "mdi-palette", to: "/salmagundi" },
       ],
       сategorys: [
         {

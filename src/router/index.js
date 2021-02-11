@@ -1,30 +1,44 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Home from '../views/Home.vue'
-import Item from '../views/item.vue'
+
+// Components
+import Error404 from '../views/Error404.vue'
+
+import AboutMe from '../views/AboutMe.vue'
+import VueProjects from '../views/VueProjects.vue'
+import Developments from '../views/Developments.vue'
+import Salmagundi from '../views/Salmagundi.vue'
+
 Vue.use(VueRouter)
 
 const routes = [
   {
     path: '/',
-    name: 'Home',
-    component: Home
+    name: 'AboutMe',
+    component: AboutMe
   },
 
   {
-    path: '/item',
-    name: 'item',
-    component: Item
+    path: '/vue-prodjects',
+    name: 'VueProjects',
+    component: VueProjects
   },
-  // {
-  //   path: '/about',
-  //   name: 'About',
-  //   // route level code-splitting
-  //   // this generates a separate chunk (about.[hash].js) for this route
-  //   // which is lazy-loaded when the route is visited.
-  //   component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
-  // }
-]
+  {
+    path: '/developments',
+    name: 'Developments',
+    component: Developments
+  },
+  {
+    path: '/salmagundi',
+    name: 'Salmagundi',
+    component: Salmagundi
+  },
+  {
+    path: "*",
+    name: "error-404",
+    component: Error404
+}
+] 
 
 const router = new VueRouter({
   mode: 'history',
