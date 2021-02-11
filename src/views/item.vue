@@ -1,9 +1,6 @@
 <template>
   <div class="home">
-    1. Разобрать гитхабы <br />
-    2.Очистить SSD и комп<br />
-    3. Сделать папку Проекты и наработки<br />
-    4.
+    ITEM-1
 
     <v-main class="grey lighten-2">
       <v-container>
