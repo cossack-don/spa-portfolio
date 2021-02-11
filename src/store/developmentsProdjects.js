@@ -8,15 +8,16 @@ export default {
               "hhttps://github.com/cossack-don/popup-j-query",
             //   фото 275 на 310 пк размер
             urlImage: require("../assets/template-no-image.jpg"),
-            dicription:'jQuery popup'
+            dicription:'jQuery popup',
+            disabled:false
           },
           {
             id: 2,
-            linkPreview: "https://yandex.ru/",
+            linkPreview: "https://cossack-don.github.io/landing/",
             linkGitHub:
-              "https://github.com/cossack-don/nike-shop-app/blob/main/src/store/shop.js",
-            urlImage: require("../assets/logo.svg"),
-            dicription:'Vue + Vuex +  + Routers - JOB spa'
+              "https://github.com/cossack-don/landing",
+            urlImage: require("../assets/kognetivnoe.jpg"),
+            dicription:'Когнитивное искажение Hexlet'
           },
           {
             id: 3,

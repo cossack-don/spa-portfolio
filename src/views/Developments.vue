@@ -44,6 +44,7 @@
                 class="mt-3"
                 :href="item.linkGitHub"
                 target="_blank"
+                :disabled="item.disabled"
               >
                 GitHub code
               </v-btn>

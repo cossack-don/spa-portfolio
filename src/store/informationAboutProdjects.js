@@ -7,15 +7,17 @@ export default {
             linkGitHub:
               "https://github.com/cossack-don/group",
               urlImage: require("../assets/template-no-image.jpg"),
-            dicription:'Vue + Vuex + Routers - JOB spa'
+            dicription:'Vue + Vuex + Routers - JOB spa',
+            disabled:true
           },
           {
             id: 2,
-            linkPreview: "https://yandex.ru/",
+            linkPreview: "https://www.winediscovery.ru/",
             linkGitHub:
-              "https://github.com/cossack-don/nike-shop-app/blob/main/src/store/shop.js",
+              "/",
             urlImage: require("../assets/logo.svg"),
-            dicription:'Vue + Vuex + SCSS + Routers'
+            dicription:'Vue + Vuex + SCSS + Routers',
+            disabled:true
           },
           {
             id: 3,
@@ -23,7 +25,8 @@ export default {
             linkGitHub:
               "https://github.com/cossack-don/nike-shop-app/blob/main/src/store/shop.js",
             urlImage: require("../assets/logo.svg"),
-            dicription:'Vue + Vuex + SCSS + Routers'
+            dicription:'Vue + Vuex + SCSS + Routers',
+            disabled:true
           },
           {
             id: 4,
