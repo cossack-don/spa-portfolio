@@ -212,6 +212,136 @@ export default {
             disabledGitHub:false,
             disabledPreview:false
           },
+          {
+            id: 22,
+            linkPreview: "https://sergeyzhur.github.io/portfolio/JavaScript/ToDoList/",
+            linkGitHub:
+              "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/JavaScript/ToDoList",
+              urlImage: require("../assets/todolist.jpg"),
+            dicription:'TodoList Firebase + JS',
+            disabledGitHub:false,
+            disabledPreview:false
+          },
+          {
+            id: 23,
+            linkPreview: "https://sergeyzhur.github.io/portfolio/JavaScript/browserToDoList/",
+            linkGitHub:
+              "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/JavaScript/browserToDoList",
+              urlImage: require("../assets/template-no-image.jpg"),
+            dicription:'Браузер Todolist - LocalStorage',
+            disabledGitHub:false,
+            disabledPreview:false
+          },
+          {
+            id: 24,
+            linkPreview: "https://sergeyzhur.github.io/portfolio/JavaScript/calculator/",
+            linkGitHub:
+              "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/JavaScript/calculator",
+              urlImage: require("../assets/calculator.jpg"),
+            dicription:'Vanissa javascript',
+            disabledGitHub:false,
+            disabledPreview:false
+          },
+          {
+            id: 25,
+            linkPreview: "https://sergeyzhur.github.io/portfolio/JavaScript/gameWithBox/",
+            linkGitHub:
+              "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/JavaScript/gameWithBox",
+              urlImage: require("../assets/template-no-image.jpg"),
+            dicription:'Игра на JS, угадай квадрат',
+            disabledGitHub:false,
+            disabledPreview:false
+          },
+          {
+            id: 26,
+            linkPreview: "https://sergeyzhur.github.io/portfolio/JavaScript/nativeSlider/",
+            linkGitHub:
+              "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/JavaScript/nativeSlider",
+              urlImage: require("../assets/template-no-image.jpg"),
+            dicription:'Cлайдер на js vanilla',
+            disabledGitHub:false,
+            disabledPreview:false
+          },
+          {
+            id: 26,
+            linkPreview: "https://sheltered-peak-06348.herokuapp.com/",
+            linkGitHub:
+              "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/JavaScript/nodeJsChat",
+              urlImage: require("../assets/template-no-image.jpg"),
+            dicription:'NodeJS + WebSocket + Heroku',
+            disabledGitHub:false,
+            disabledPreview:false
+          },
+          {
+            id: 27,
+            linkPreview: "https://sergeyzhur.github.io/portfolio/JavaScript/snake/",
+            linkGitHub:
+              "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/JavaScript/snake",
+              urlImage: require("../assets/template-no-image.jpg"),
+            dicription:'Игра змейка - JavaScript',
+            disabledGitHub:false,
+            disabledPreview:false
+          },
+          {
+            id: 27,
+            linkPreview: "https://sergeyzhur.github.io/portfolio/Verstka/saleLanding/src/",
+            linkGitHub:
+              "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/Verstka/saleLanding",
+              urlImage: require("../assets/template-no-image.jpg"),
+            dicription:'Верстка Sale постельного белья',
+            disabledGitHub:false,
+            disabledPreview:false
+          },
+          {
+            id: 28,
+            linkPreview: "https://sergeyzhur.github.io/portfolio/Verstka/saleLanding/src/",
+            linkGitHub:
+              "https://github.com/cossack-don/gulp-template",
+              urlImage: require("../assets/template-no-image.jpg"),
+            dicription:'Шаблон сборки Gulp- закрытый доступ',
+            disabledGitHub:false,
+            disabledPreview:true
+          },
+          {
+            id: 29,
+            linkPreview: "https://cossack-don.github.io/logistics/",
+            linkGitHub:
+              "https://github.com/cossack-don/logistics",
+              urlImage: require("../assets/template-no-image.jpg"),
+            dicription:'Верстка страницы Одежда',
+            disabledGitHub:false,
+            disabledPreview:false
+          },
+          {
+            id: 30,
+            linkPreview: "",
+            linkGitHub:
+              "https://github.com/cossack-don/quasargramm",
+              urlImage: require("../assets/template-no-image.jpg"),
+            dicription:'Quasargramm - недоделанная версия',
+            disabledGitHub:false,
+            disabledPreview:true
+          },
+          {
+            id: 31,
+            linkPreview: "",
+            linkGitHub:
+              "https://github.com/cossack-don/quasagram-full",
+              urlImage: require("../assets/template-no-image.jpg"),
+            dicription:'Quasargramm - full версия - не продакшен',
+            disabledGitHub:false,
+            disabledPreview:true
+          },
+          {
+            id: 32,
+            linkPreview: "",
+            linkGitHub:
+              "https://github.com/cossack-don/back-and-front-express-js",
+              urlImage: require("../assets/template-no-image.jpg"),
+            dicription:'foront+back - express, nodemoon',
+            disabledGitHub:false,
+            disabledPreview:true
+          },
           
     ]
 

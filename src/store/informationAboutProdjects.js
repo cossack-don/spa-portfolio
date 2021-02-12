@@ -22,37 +22,43 @@ export default {
           },
           {
             id: 3,
-            linkPreview: "https://yandex.ru/",
+            linkPreview: "https://cossack-don.github.io/nice-app/#/",
             linkGitHub:
-              "https://github.com/cossack-don/nike-shop-app/blob/main/src/store/shop.js",
-            urlImage: require("../assets/logo.svg"),
-            dicription:'Vue + Vuex + SCSS + Routers',
+              "https://github.com/cossack-don/nice-app",
+              urlImage: require("../assets/template-no-image.jpg"),
+            dicription:'Nike-shop Vue + Vue Router',
             disabledGitHub:false,
             disabledPreview:true
           },
           {
             id: 4,
-            linkPreview: "https://yandex.ru/",
+            linkPreview: "https://cossack-don.github.io/todo-vuetify/#/",
             linkGitHub:
-              "https://github.com/cossack-don/nike-shop-app/blob/main/src/store/shop.js",
-            urlImage: require("../assets/logo.svg"),
-            dicription:'Vue + Vuex + SCSS + Routers'
+              "https://github.com/cossack-don/todo-vuetify",
+              urlImage: require("../assets/template-no-image.jpg"),
+            dicription:'TodoList Vue + Vuetify',
+            disabledGitHub:false,
+            disabledPreview:false
           },
           {
             id: 5,
-            linkPreview: "https://yandex.ru/",
+            linkPreview: "https://github.com/cossack-don/textbook",
             linkGitHub:
-              "https://github.com/cossack-don/nike-shop-app/blob/main/src/store/shop.js",
-            urlImage: require("../assets/logo.svg"),
-            dicription:'Vue + Vuex + SCSS + Routers'
+              "https://cossack-don.github.io/textbook/#/",
+              urlImage: require("../assets/template-no-image.jpg"),
+            dicription:'Учебник js Vue + Vuex + Routers',
+            disabledGitHub:false,
+            disabledPreview:false
           },
           {
             id: 6,
-            linkPreview: "https://yandex.ru/",
+            linkPreview: "",
             linkGitHub:
-              "https://github.com/cossack-don/nike-shop-app/blob/main/src/store/shop.js",
-            urlImage: require("../assets/logo.svg"),
-            dicription:'Vue + Vuex + SCSS + Routers'
+              "https://github.com/cossack-don/wedding-app",
+              urlImage: require("../assets/template-no-image.jpg"),
+            dicription:'Cвадебное SPA Vue нужно сделать продакшен',
+            disabledGitHub:false,
+            disabledPreview:true
           },
           {
             id: 7,

@@ -2,8 +2,12 @@
   <v-app id="inspire">
     <v-app-bar app color="">
       <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
-
+      <v-spacer></v-spacer>
       <v-toolbar-title>Портфолио Vue</v-toolbar-title>
+      <v-spacer></v-spacer>
+      <v-btn icon :to="home">
+        <v-icon>mdi-home</v-icon>
+      </v-btn>
     </v-app-bar>
 
     <v-navigation-drawer v-model="drawer" fixed temporary>
@@ -50,6 +54,7 @@ export default {
 
   data() {
     return {
+      home: "/",
       drawer: null,
       items: [
         { title: "Обо мне", icon: "mdi-information-outline", to: "/" },
