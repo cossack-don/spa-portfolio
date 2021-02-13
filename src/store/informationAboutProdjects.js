@@ -62,11 +62,13 @@ export default {
           },
           {
             id: 7,
-            linkPreview: "https://yandex.ru/",
+            linkPreview: "https://cossack-don.github.io/app-movie-theate/#/",
             linkGitHub:
-              "https://github.com/cossack-don/nike-shop-app/blob/main/src/store/shop.js",
-            urlImage: require("../assets/logo.svg"),
-            dicription:'Vue + Vuex + SCSS + Routers'
+              "https://github.com/cossack-don/app-movie-theate",
+            urlImage: require("../assets/movies-app.jpg"),
+            dicription:'Vue + Vuex + OMDb API video',
+            disabledGitHub:false,
+            disabledPreview:false
           },
           {
             id: 8,
