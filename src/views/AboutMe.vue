@@ -2,6 +2,8 @@
   <div class="about-me pa-5">
     <div class="about-me__wrapper-profile main-profile">
       <div class="main-profile__wrapper-photo main-avatar">
+        Cделать имя проекта красным везде и красиво выровнять все
+
         посмотреть это JS и анг
         https://www.youtube.com/playlist?list=PLCMvV-acWe2DOE8ZBL2M5g2O70noa6A12
         <br />

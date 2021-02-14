@@ -25,7 +25,7 @@
                 style="text-align: center"
               >
                 <img :src="item.urlImage" alt="" class="adaptive-image" />
-                <span>{{ item.dicription }}</span>
+                <span><span class="title-main-name-prodject">{{ item.nameProdject }}</span> {{ item.dicription }} </span>
               </v-sheet>
               <v-btn
                 width="100%"
