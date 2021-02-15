@@ -6,7 +6,8 @@ export default {
             linkPreview: "https://cossack-don.github.io/popup-j-query/",
             linkGitHub:"https://github.com/cossack-don/popup-j-query",
             urlImage: require("../assets/template-no-image.jpg"),
-            dicription:'jQuery popup + from + css',
+            dicription:'From + CSS',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -16,6 +17,7 @@ export default {
             linkGitHub:"https://github.com/cossack-don/landing",
             urlImage: require("../assets/kognetivnoe.jpg"),
             dicription:'Когнитивное искажение Hexlet',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -25,6 +27,7 @@ export default {
             linkGitHub:"https://github.com/SergeyZhur/email-form",
             urlImage: require("../assets/template-no-image.jpg"),
             dicription:'email-form PHP + ajax',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:true
           },
@@ -35,6 +38,7 @@ export default {
               "https://github.com/SergeyZhur/Information-links",
             urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Информационные ссылки SergeyZhur',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:true
           },
@@ -45,6 +49,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/Anketa",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Anketa + сертификаты',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -55,6 +60,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/Bootstrap_4_blog_old",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Bootstrap-4 Блог старый',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -65,6 +71,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/Bootstrap_4_door",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Bootstrap 4 - Doors страница',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -75,6 +82,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/Bootstrap_4_new",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Landing BlueRex Bootstrap-4',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -85,6 +93,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/Bootstrap_4_night",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Landing night Bootstrap-4',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -95,6 +104,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/EksmoTEST",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Eksmo Техническое задание',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -105,6 +115,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/MageGame/%D0%9A%D0%BE%D0%B4%20%D0%B8%20%D0%BC%D0%B0%D0%B3%D0%B8%D1%8F",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'HTML Academy JS 1lvl Код и магия',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -115,6 +126,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/NikeShop",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Nike shop Page - верстка',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -125,6 +137,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/ProjectDaisyNew",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Daisy Landing - верстка',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -145,6 +158,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/landing-auto-TZ",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Авто - Landing - верстка',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -155,6 +169,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/my_job_site",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'сайт для работы - оранжевый',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -165,6 +180,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/new_site",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'сайт html по vue - зеленый',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -175,6 +191,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/skillbox-form",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'forma skillbox тех.задание',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:true
           },
@@ -185,6 +202,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/sedona",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Landing - Sedona page - верстка',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -195,6 +213,7 @@ export default {
               "",
               urlImage: require("../assets/logo.svg"),
             dicription:'Дед мороз тагил залить',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -209,6 +228,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/JavaScript/Timer",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Счетчик-Таймер на JS',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -219,6 +239,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/JavaScript/ToDoList",
               urlImage: require("../assets/todolist.jpg"),
             dicription:'TodoList Firebase + JS',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -229,6 +250,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/JavaScript/browserToDoList",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Браузер Todolist - LocalStorage',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -239,6 +261,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/JavaScript/calculator",
               urlImage: require("../assets/calculator.jpg"),
             dicription:'Vanissa javascript',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -249,6 +272,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/JavaScript/gameWithBox",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Игра на JS, угадай квадрат',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -259,6 +283,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/JavaScript/nativeSlider",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Cлайдер на js vanilla',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -269,6 +294,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/JavaScript/nodeJsChat",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'NodeJS + WebSocket + Heroku',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -279,6 +305,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/JavaScript/snake",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Игра змейка - JavaScript',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -289,6 +316,7 @@ export default {
               "https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/Verstka/saleLanding",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Верстка Sale постельного белья',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -299,6 +327,7 @@ export default {
               "https://github.com/cossack-don/gulp-template",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Шаблон сборки Gulp- закрытый доступ',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:true
           },
@@ -309,6 +338,7 @@ export default {
               "https://github.com/cossack-don/logistics",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Верстка страницы Одежда',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:false
           },
@@ -319,6 +349,7 @@ export default {
               "https://github.com/cossack-don/quasargramm",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Quasargramm - недоделанная версия',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:true
           },
@@ -329,6 +360,7 @@ export default {
               "https://github.com/cossack-don/quasagram-full",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'Quasargramm - full версия - не продакшен',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:true
           },
@@ -339,6 +371,7 @@ export default {
               "https://github.com/cossack-don/back-and-front-express-js",
               urlImage: require("../assets/template-no-image.jpg"),
             dicription:'foront+back - express, nodemoon',
+            nameProdject:"jQuery popup",
             disabledGitHub:false,
             disabledPreview:true
           },
