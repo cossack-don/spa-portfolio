@@ -1,21 +1,15 @@
 <template>
   <div>
-    Salmagundi Разное Cертификаты
-    <template>
-      <v-row justify="center">
-        <v-date-picker v-model="date" readonly></v-date-picker>
-      </v-row>
-    </template>
+    <img :src="item" alt="" width="600px" height="auto">
   </div>
 </template>
-  </div>
-</template>
+
 
 <script>
 export default {
   data() {
     return {
-      date: new Date().toISOString().substr(0, 10),
+     item:require("../assets/sertificats/sertificat-pwa-udemy.jpg"),
     };
   },
 };
