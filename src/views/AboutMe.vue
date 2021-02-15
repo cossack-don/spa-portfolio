@@ -25,9 +25,7 @@
           https://github.com/cossack-don/fetch-form-fetch - залить и загрузить в
           портфолио ( от сюда https://yadi.sk/d/T1TPk5mlsWNx1w) <br />
           загружить все файлы что кидал в вк и мираж сервис <br />
-          https://github.com/cossack-don/app-movie-theate - делать Театр по
-          урокам
-        </h1>
+     
         <!-- <img src="../assets/avatar.jpg" alt="" class="main-avatar__photo" /> -->
         <div class="main-avatar__photo"></div>
         <div class="main-avatar__contacts main-contacts">
