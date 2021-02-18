@@ -58,7 +58,11 @@ export default {
       drawer: null,
       items: [
         { title: "Обо мне", icon: "mdi-information-outline", to: "/" },
-        { title: "Vue проекты", icon: "mdi-vuejs", to: "/vue-prodjects" },
+        {
+          title: "Законченные проекты",
+          icon: "mdi-vuejs",
+          to: "/vue-prodjects",
+        },
         {
           title: "Наработки",
           icon: "mdi-animation-outline",

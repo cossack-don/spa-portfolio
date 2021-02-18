@@ -2,9 +2,8 @@
   <div class="about-me pa-5">
     <div class="about-me__wrapper-profile main-profile">
       <div class="main-profile__wrapper-photo main-avatar">
-        Cделать имя проекта красным везде и красиво выровнять все
-
-        посмотреть это JS и анг
+        Cделать имя проекта красным везде и красиво выровнять все посмотреть это
+        JS и анг
         https://www.youtube.com/playlist?list=PLCMvV-acWe2DOE8ZBL2M5g2O70noa6A12
         <br />
         https://www.youtube.com/playlist?list=PLA0M1Bcd0w8x9TltCzZDhw0SatK1d10yy
@@ -12,20 +11,19 @@
         https://www.youtube.com/playlist?list=PLmRNNqEA7JoOF9d6cMrhExfEUig-yE-gz
         <br />
 
-        <h1>
-          С soccak все проекты залил! <br />
-          Сжать все фотографии Tiny Png <br />
-          Сделать все логотипы для портфолио <br />
-          Скачать все проекты себе на комп и SSD <br />
-          Добавить проекты те, которых нет в гитхабе и продакшене <br />
-          Загрузить все сертификаты фото <br />
-          Не добавил с гитхаба сер-жур эту только часть
-          https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/Vue
-          <br />
-          https://github.com/cossack-don/fetch-form-fetch - залить и загрузить в
-          портфолио ( от сюда https://yadi.sk/d/T1TPk5mlsWNx1w) <br />
-          загружить все файлы что кидал в вк и мираж сервис <br />
-     
+        С soccak все проекты залил! <br />
+        Сжать все фотографии Tiny Png <br />
+        Сделать все логотипы для портфолио <br />
+        Скачать все проекты себе на комп и SSD <br />
+        Добавить проекты те, которых нет в гитхабе и продакшене <br />
+        Загрузить все сертификаты фото <br />
+        Не добавил с гитхаба сер-жур эту только часть
+        https://github.com/SergeyZhur/sergeyzhur.github.io/tree/master/portfolio/Vue
+        <br />
+        https://github.com/cossack-don/fetch-form-fetch - залить и загрузить в
+        портфолио ( от сюда https://yadi.sk/d/T1TPk5mlsWNx1w) <br />
+        загружить все файлы что кидал в вк и мираж сервис <br />
+
         <!-- <img src="../assets/avatar.jpg" alt="" class="main-avatar__photo" /> -->
         <div class="main-avatar__photo"></div>
         <div class="main-avatar__contacts main-contacts">
