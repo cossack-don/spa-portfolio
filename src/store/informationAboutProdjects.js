@@ -80,10 +80,10 @@ export default {
     },
     {
       id: 9,
-      linkPreview: "https://yandex.ru/",
+      linkPreview: "https://cossack-don.github.io/modals-vue/",
       linkGitHub:
-        "https://github.com/cossack-don/nike-shop-app/blob/main/src/store/shop.js",
-      urlImage: require("../assets/logo.svg"),
+        "https://github.com/cossack-don/modals-vue",
+      urlImage: require("../assets/modals-vue.jpg"),
       dicription: 'Vue + Vuex + SCSS + Routers'
     },
     {
